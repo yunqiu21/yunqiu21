@@ -4,21 +4,13 @@
 
 ### Education
 
-#### Stanford University
+#### Stanford University (September 2023 - June 2025)
 
-- MS in Computer Science
+- MS in Computer Science, GPA: 3.87
 
-- September 2023 - June 2025
+#### University of California, Los Angeles (September 2019 - June 2023)
 
-- GPA: 3.87
-
-#### University of California, Los Angeles
-
-- BS in Computer Science
-
-- September 2019 - June 2023
-
-- GPA: 3.98
+- BS in Computer Science, GPA: 3.98
 
 ### Skills
 
@@ -29,7 +21,7 @@ C++, C, Python, Golang
 HTML, CSS, JavaScript, React
 
 **Technologies:**
-Git, Linux, GPC, Jenkins
+Git, Linux, gdb, Jenkins, GCP
 
 <!--
 **yunqiu21/yunqiu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
