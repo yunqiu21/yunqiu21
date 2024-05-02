@@ -6,7 +6,7 @@
 
 #### Stanford University (September 2023 - June 2025)
 
-- MS in Computer Science, GPA: 3.87
+- MS in Computer Science, GPA: 3.73
 
 #### University of California, Los Angeles (September 2019 - June 2023)
 
